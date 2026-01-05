@@ -2,7 +2,7 @@
 <img width="2816" height="1536" alt="komorebi-head" src="https://github.com/user-attachments/assets/9d4947e8-97de-457f-8da2-9ff6c6619151"> <br>
 # Komorebi <br>
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/NadiiaPokorna/komorebi-system/blob/main/LICENSE)
-[![GitHub release](https://img.shields.io/static/v1?label=Pre-release&message=v.1.0.0&color=yellowgreen)](https://github.com/NadiiaPokorna/komorebi-system/releases)
+[![GitHub release](https://img.shields.io/static/v1?label=Release&message=v.1.0.0&color=yellowgreen)](https://github.com/NadiiaPokorna/komorebi-system/releases)
 
 **Copyright 2025 Pokorna Nadiia**
 
